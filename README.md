@@ -1,0 +1,5 @@
+4 represents a semibreve (half a breve, however a breve is never seen in 90% of music)
+2 represents a minum (half a semibreve)
+1 Represents a crotchet (half a minum)
+0.5 represents a quaver (half a crotchet)
+0.25 represents a semiquaver (half a quaver)
