@@ -19,5 +19,8 @@
   "homepage": "https://github.com/KshitijVerma852/Spiral#readme",
   "dependencies": {
     "tone": "^14.7.77"
+  },
+  "devDependencies": {
+    "prettier": "^3.2.5"
   }
 }
